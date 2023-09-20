@@ -1,0 +1,13 @@
+.idea
+*.csv
+vendor
+bin
+dist
+.goreleaser.yml
+
+dist/
+*.txt
+build/
+*.log
+elastic-query-export
+*.log
